@@ -20,4 +20,6 @@ class MagnificPopupAssetBundle extends EffAssetBundle{
         YII_ENV_DEV ? 'jquery.magnific-popup.js':'jquery.magnific-popup.min.js',
     ];
 
+    
+
 }
