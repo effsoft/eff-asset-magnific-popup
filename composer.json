@@ -15,6 +15,7 @@
 
   },
   "config": {
+    "vendor-dir": "../vendor/eff-asset-magnific-popup",
     "process-timeout": 1800,
     "fxp-asset": {
       "enabled": false
